@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with plenty of files for demos.
+Sample website with plenty of files for demos. Rebasing example!
 
 Some more data for diff tool
 
