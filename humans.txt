@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    To the author of this course
 
 # TECHNOLOGY COLOPHON
 
