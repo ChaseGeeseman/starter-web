@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 
 More changes from myfeature branch
 
+Updating for "emergency" fix git stash example
 ## Purpose
 
 Sample website with plenty of files for demos. Rebasing example!
