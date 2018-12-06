@@ -16,4 +16,4 @@ Just doing this cause the video told me to! Practicing fancy branching.
 
 ##Copyright
 
-2014 Git.Training
+2014 Git.Training All rights reserved.
